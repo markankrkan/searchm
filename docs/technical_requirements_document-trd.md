@@ -18,16 +18,16 @@
 
 ## TECHNICAL STACK
 
-Programming language:
-* Primarily Go (Golang)
+- Programming language:
+    * Primarily Go (Golang)
 
-Frontend:
-* HTML
-* CSS
-* JavaScript
+- Frontend:
+    * HTML
+    * CSS
+    * JavaScript
 
-Backend:
-* Go
+- Backend:
+    * Go
 
 ---
 
@@ -39,7 +39,7 @@ Backend:
 
 ## OTHER
 
-Code Editor:
-* VS Code
+- Code Editor:
+    * VS Code
 
 ---
