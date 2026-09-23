@@ -1,4 +1,4 @@
-# TECHNICAL REQUIREMENTS DOCUMENT (TRD)
+## TECHNICAL REQUIREMENTS DOCUMENT (TRD)
 
 * Project:         **Searchm**
 * Document:        Technical Requirements Document (TRD)
@@ -7,5 +7,39 @@
 * Project Type:    Search Engine
 * Target Platform: Cross-platform
 * Repository:      `searchm/`
+
+---
+
+
+
+<br><br>
+
+
+
+## TECHNICAL STACK
+
+Programming language:
+* Primarily Go (Golang)
+
+Frontend:
+* HTML
+* CSS
+* JavaScript
+
+Backend:
+* Go
+
+---
+
+
+
+<br><br>
+
+
+
+## OTHER
+
+Code Editor:
+* VS Code
 
 ---
