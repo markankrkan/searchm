@@ -1,3 +1,6 @@
+<!-- Logo -->
+<p align="center" style="font-size: 42px"><b>SEARCHM</b></p>
+
 <!-- Badges -->
 <p align="center">
     <img src="https://img.shields.io/badge/license-AGPLv3-663366" alt="License-AGPLv3" title="License-AGPLv3">
