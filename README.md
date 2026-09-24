@@ -1,5 +1,5 @@
 <!-- Logo -->
-<p align="center" style="font-size: 42px"><b>SEARCHM</b></p>
+<h1 style="text-align:center">SEARCHM</h1>
 
 <!-- Badges -->
 <p align="center">
